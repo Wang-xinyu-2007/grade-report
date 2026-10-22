@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
-![Tests](https://img.shields.io/badge/tests-18%20passing-brightgreen)
+![Tests](https://github.com/Wang-Xinyu-2007/grade-report/actions/workflows/tests.yml/badge.svg)
 
 ---
 
